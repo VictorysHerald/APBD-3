@@ -5534,19 +5534,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kacpe\\.nuget\\packages\\": {}
+    "C:\\Users\\Maciek\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kacpe\\Desktop\\apbd\\zadanie - cw3\\LegacyAppTests\\LegacyAppTests.csproj",
+      "projectUniqueName": "C:\\Users\\Maciek\\Desktop\\APBD\\APBD-3\\zadanie\\LegacyAppTests\\LegacyAppTests.csproj",
       "projectName": "LegacyAppTests",
-      "projectPath": "C:\\Users\\kacpe\\Desktop\\apbd\\zadanie - cw3\\LegacyAppTests\\LegacyAppTests.csproj",
-      "packagesPath": "C:\\Users\\kacpe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kacpe\\Desktop\\apbd\\zadanie - cw3\\LegacyAppTests\\obj\\",
+      "projectPath": "C:\\Users\\Maciek\\Desktop\\APBD\\APBD-3\\zadanie\\LegacyAppTests\\LegacyAppTests.csproj",
+      "packagesPath": "C:\\Users\\Maciek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Maciek\\Desktop\\APBD\\APBD-3\\zadanie\\LegacyAppTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kacpe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Maciek\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -5558,8 +5558,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\kacpe\\Desktop\\apbd\\zadanie - cw3\\LegacyApp\\LegacyApp.csproj": {
-              "projectPath": "C:\\Users\\kacpe\\Desktop\\apbd\\zadanie - cw3\\LegacyApp\\LegacyApp.csproj"
+            "C:\\Users\\Maciek\\Desktop\\APBD\\APBD-3\\zadanie\\LegacyApp\\LegacyApp.csproj": {
+              "projectPath": "C:\\Users\\Maciek\\Desktop\\APBD\\APBD-3\\zadanie\\LegacyApp\\LegacyApp.csproj"
             }
           }
         }
@@ -5611,7 +5611,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\kacpe\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
